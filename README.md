@@ -51,10 +51,6 @@ This repository contains the `DART_Sequence.ipynb` Jupyter Notebook, which is de
 
 Contributions to the DART_Sequencer are welcome. If you have any suggestions, improvements, or bug reports, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 
 For further information or questions, please contact the author, Mohammadreza Narimani, at [mnarimani@ucdavis.edu].
