@@ -23,9 +23,9 @@ This repository contains the `DART_Sequence.ipynb` Jupyter Notebook, which is de
 
 2. **Navigate to the repository**:
 
-   \`\`\`bash
+   ```bash
    cd DART_Sequencer
-   \`\`\`
+   ```
 
 3. **Install dependencies**: 
    
@@ -33,9 +33,9 @@ This repository contains the `DART_Sequence.ipynb` Jupyter Notebook, which is de
 
 4. **Open the notebook**:
 
-   \`\`\`bash
+   ```bash
    jupyter notebook DART_Sequence.ipynb
-   \`\`\`
+   ```
 
 5. **Run the notebook**:
    
