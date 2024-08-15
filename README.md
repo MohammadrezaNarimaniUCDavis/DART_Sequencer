@@ -17,9 +17,9 @@ This repository contains the `DART_Sequence.ipynb` Jupyter Notebook, which is de
 
 1. **Clone the repository**:
 
-   \`\`\`bash
+   ```bash
    git clone https://github.com/MohammadrezaNarimaniUCDavis/DART_Sequencer.git
-   \`\`\`
+   ```
 
 2. **Navigate to the repository**:
 
